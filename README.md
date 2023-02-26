@@ -2,7 +2,7 @@
 Crie um cronômetro com html, css e javascript
 
 <p align="center">
-Inciar
+  Inciar
   <img width="470"  src="img/cro1.png">
 </p>
 
